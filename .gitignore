@@ -1,0 +1,21 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+.vscode/
+# Build outputs
+bin/
+obj/
+__pycache__/
+*.pyc
+# Local secrets and machine-specific settings
+.env
+.env.*
+local.properties
+google-services.json
+*.jks
+*.keystore
+# Generated artifacts
+*.class
+*.log
